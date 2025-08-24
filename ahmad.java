@@ -1,5 +1,5 @@
 salam bar ahmad
-ya khoda..
+ya khoda......
 
 @Profile(active="prod")
 public class Config{
